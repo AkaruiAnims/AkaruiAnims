@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an experienced full-stack developer, familiar with the scrum/agile methodologies and completed projects spanning a wide range of problem domains. I'm able to apply my skill-set to various challenging issues, I've taken on the role of Teacher, Team member, Solo Programmer, Game Developer and can function effectively in all situations/ work environments. I am always looking to learn about new kinds of technologies and am open to improving my skill set and mindset to better fit any position I am required to fulfill.<br><br>Technologies I am currently experienced in:<br><br>.Javascript (w/Nodejs & ES6)<br>.Python3<br>.C# (w/Unity)<br>.PHP8 & SQL (w/MySQL)<br>.HTML5 and CSS3(w/Sass)<br>.Lua
+I'm an experienced full-stack developer, familiar with the scrum/agile methodologies and completed projects spanning a wide range of problem domains. I'm able to apply my skill-set to various challenging issues, I've taken on the role of Teacher, Team member, Solo Programmer, Game Developer and can function effectively in all situations/ work environments. I am always looking to learn about new kinds of technologies and am open to improving my skill set and mindset to better fit any position I am required to fulfill.
 
 
 ## 🌐 Socials:
